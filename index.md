@@ -1,14 +1,23 @@
 ## Welcome to GitHub Pages
 
 [Register](Use-Case-Register.html)
+
 [LogOn](LogOn.html)
+
 [LogOff](LogOff.html)
+
 [Shop_Groceries](Shop_Groceries)
+
 [Complaint](Complaint.html)
+
 [Custom_Order](Custom_Order.html)
+
 [Review_Products](Review_Products.html)
+
 [Verify_Age](Verify_Age.html)
+
 [CheckOut](CheckOut.html)
+
 [Coupon](Coupon.html)
 
 You can use the [editor on GitHub](https://github.com/ayoutzy/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
