@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Register](Use-Case-Register.html)     <br>
+[Register](Register.html)     <br>
 
 [LogOn](LogOn.html)             <br>
 
